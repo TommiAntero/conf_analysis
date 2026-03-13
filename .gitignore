@@ -1,0 +1,17 @@
+# Cache
+dashboard_data.json
+# gdelt_cache.json on tarkoituksella trackattuna — GitHub Actions päivittää sen
+__pycache__/
+*.pyc
+
+# Python envs
+.env
+*.egg-info/
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

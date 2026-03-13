@@ -1,0 +1,31 @@
+name: Refresh GDELT cache
+
+on:
+  schedule:
+    - cron: '0 5 * * *'   # 05:00 UTC = 07:00 Helsinki (talviaika)
+  workflow_dispatch:       # manuaalinen ajo GitHubista napilla
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pandas requests
+
+      - name: Refresh GDELT cache
+        run: python refresh_gdelt.py
+
+      - name: Commit updated cache
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "data: refresh GDELT cache [skip ci]"
+          file_pattern: gdelt_cache.json
