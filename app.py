@@ -222,7 +222,11 @@ with tab_news:
         "Cached 6h"
     )
 
-    days_back = st.slider("Days of news history", min_value=30, max_value=180, value=90, step=15)
+    days_back = st.select_slider(
+            "Days of news history",
+            options=[30, 60, 90, 120, 150, 180],
+            value=180,
+        )
 
     if not selected_countries:
         st.info("Select countries in the sidebar.")

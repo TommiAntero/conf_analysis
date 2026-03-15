@@ -13,7 +13,7 @@ if CACHE_FILE.exists():
     CACHE_FILE.unlink()
     print("Cleared old cache.\n")
 
-raw = fetch_all_signals(CMI_COUNTRIES, days_back=90)
+raw = fetch_all_signals(CMI_COUNTRIES, days_back=180)
 
 print(f"\nDone. {len(raw)} rows fetched for {raw['country'].nunique()} countries.")
 print(f"Cache saved to: {CACHE_FILE}")
