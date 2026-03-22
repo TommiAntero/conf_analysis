@@ -1,13 +1,7 @@
 {
   "Sudan": {
-    "fetched_at": "2026-03-21T05:23:10.126740",
+    "fetched_at": "2026-03-22T05:30:10.571249",
     "data": [
-      {
-        "date": "2025-09-23 00:00:00+00:00",
-        "volume": 0.2446,
-        "tone": -3.4515,
-        "country": "Sudan"
-      },
       {
         "date": "2025-09-24 00:00:00+00:00",
         "volume": 0.2094,
@@ -1078,21 +1072,21 @@
       },
       {
         "date": "2026-03-21 00:00:00+00:00",
-        "volume": 0.1813,
-        "tone": -2.4066,
+        "volume": 0.1227,
+        "tone": -3.3585,
+        "country": "Sudan"
+      },
+      {
+        "date": "2026-03-22 00:00:00+00:00",
+        "volume": 0.408,
+        "tone": -7.0259,
         "country": "Sudan"
       }
     ]
   },
   "Somalia": {
-    "fetched_at": "2026-03-21T05:23:27.934810",
+    "fetched_at": "2026-03-22T05:31:21.097272",
     "data": [
-      {
-        "date": "2025-09-23 00:00:00+00:00",
-        "volume": 0.036,
-        "tone": -2.1259,
-        "country": "Somalia"
-      },
       {
         "date": "2025-09-24 00:00:00+00:00",
         "volume": 0.0653,
@@ -2163,457 +2157,457 @@
       },
       {
         "date": "2026-03-21 00:00:00+00:00",
-        "volume": 0.0946,
-        "tone": -1.9471,
+        "volume": 0.0452,
+        "tone": -3.5191,
+        "country": "Somalia"
+      },
+      {
+        "date": "2026-03-22 00:00:00+00:00",
+        "volume": 0.0363,
+        "tone": -3.5031,
         "country": "Somalia"
       }
     ]
   },
   "Ethiopia": {
-    "fetched_at": "2026-03-21T05:24:22.241160",
+    "fetched_at": "2026-03-22T05:31:51.721803",
     "data": [
-      {
-        "date": "2025-09-23 00:00:00+00:00",
-        "volume": 0.0873,
-        "tone": 0.0,
-        "country": "Ethiopia"
-      },
       {
         "date": "2025-09-24 00:00:00+00:00",
         "volume": 0.0653,
-        "tone": 0.0,
+        "tone": -2.7298,
         "country": "Ethiopia"
       },
       {
         "date": "2025-09-25 00:00:00+00:00",
         "volume": 0.0438,
-        "tone": 0.0,
+        "tone": -3.2384,
         "country": "Ethiopia"
       },
       {
         "date": "2025-09-26 00:00:00+00:00",
         "volume": 0.039,
-        "tone": 0.0,
+        "tone": -2.2348,
         "country": "Ethiopia"
       },
       {
         "date": "2025-09-27 00:00:00+00:00",
         "volume": 0.0562,
-        "tone": 0.0,
+        "tone": -2.8769,
         "country": "Ethiopia"
       },
       {
         "date": "2025-09-28 00:00:00+00:00",
         "volume": 0.0369,
-        "tone": 0.0,
+        "tone": -2.277,
         "country": "Ethiopia"
       },
       {
         "date": "2025-09-29 00:00:00+00:00",
         "volume": 0.0299,
-        "tone": 0.0,
+        "tone": -1.1742,
         "country": "Ethiopia"
       },
       {
         "date": "2025-09-30 00:00:00+00:00",
         "volume": 0.0495,
-        "tone": 0.0,
+        "tone": -2.3847,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-01 00:00:00+00:00",
         "volume": 0.041,
-        "tone": 0.0,
+        "tone": -1.3573,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-02 00:00:00+00:00",
         "volume": 0.0489,
-        "tone": 0.0,
+        "tone": -1.5926,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-03 00:00:00+00:00",
         "volume": 0.0419,
-        "tone": 0.0,
+        "tone": -2.9553,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-04 00:00:00+00:00",
         "volume": 0.0236,
-        "tone": 0.0,
+        "tone": -2.4117,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-05 00:00:00+00:00",
         "volume": 0.0375,
-        "tone": 0.0,
+        "tone": -0.1618,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-06 00:00:00+00:00",
         "volume": 0.0328,
-        "tone": 0.0,
+        "tone": -3.0417,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-07 00:00:00+00:00",
         "volume": 0.0504,
-        "tone": 0.0,
+        "tone": -1.3282,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-08 00:00:00+00:00",
         "volume": 0.0451,
-        "tone": 0.0,
+        "tone": -1.7182,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-09 00:00:00+00:00",
         "volume": 0.0988,
-        "tone": 0.0,
+        "tone": 0.9222,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-10 00:00:00+00:00",
         "volume": 0.1008,
-        "tone": 0.0,
+        "tone": 0.0901,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-11 00:00:00+00:00",
         "volume": 0.0569,
-        "tone": 0.0,
+        "tone": 0.5926,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-12 00:00:00+00:00",
         "volume": 0.0987,
-        "tone": 0.0,
+        "tone": -0.5711,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-13 00:00:00+00:00",
         "volume": 0.053,
-        "tone": 0.0,
+        "tone": -1.4187,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-14 00:00:00+00:00",
         "volume": 0.0265,
-        "tone": 0.0,
+        "tone": -1.2446,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-15 00:00:00+00:00",
         "volume": 0.0388,
-        "tone": 0.0,
+        "tone": -1.7253,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-16 00:00:00+00:00",
         "volume": 0.0424,
-        "tone": 0.0,
+        "tone": -1.7196,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-17 00:00:00+00:00",
         "volume": 0.0272,
-        "tone": 0.0,
+        "tone": -1.1604,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-18 00:00:00+00:00",
         "volume": 0.0347,
-        "tone": 0.0,
+        "tone": -2.0015,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-19 00:00:00+00:00",
         "volume": 0.0259,
-        "tone": 0.0,
+        "tone": -1.7117,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-20 00:00:00+00:00",
         "volume": 0.0168,
-        "tone": 0.0,
+        "tone": -1.6726,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-21 00:00:00+00:00",
         "volume": 0.0418,
-        "tone": 0.0,
+        "tone": -1.9103,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-22 00:00:00+00:00",
         "volume": 0.0227,
-        "tone": 0.0,
+        "tone": -1.6848,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-23 00:00:00+00:00",
         "volume": 0.0182,
-        "tone": 0.0,
+        "tone": -1.062,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-24 00:00:00+00:00",
         "volume": 0.0394,
-        "tone": 0.0,
+        "tone": -2.4957,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-25 00:00:00+00:00",
         "volume": 0.061,
-        "tone": 0.0,
+        "tone": -5.0577,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-26 00:00:00+00:00",
         "volume": 0.035,
-        "tone": 0.0,
+        "tone": -2.5716,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-27 00:00:00+00:00",
         "volume": 0.0174,
-        "tone": 0.0,
+        "tone": -2.8593,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-28 00:00:00+00:00",
         "volume": 0.0439,
-        "tone": 0.0,
+        "tone": -2.7788,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-29 00:00:00+00:00",
         "volume": 0.043,
-        "tone": 0.0,
+        "tone": -5.773,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-30 00:00:00+00:00",
         "volume": 0.0384,
-        "tone": 0.0,
+        "tone": -0.0962,
         "country": "Ethiopia"
       },
       {
         "date": "2025-10-31 00:00:00+00:00",
         "volume": 0.0348,
-        "tone": 0.0,
+        "tone": -1.9457,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-01 00:00:00+00:00",
         "volume": 0.0232,
-        "tone": 0.0,
+        "tone": -2.673,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-02 00:00:00+00:00",
         "volume": 0.0303,
-        "tone": 0.0,
+        "tone": -1.6828,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-03 00:00:00+00:00",
         "volume": 0.0445,
-        "tone": 0.0,
+        "tone": -3.9011,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-04 00:00:00+00:00",
         "volume": 0.0339,
-        "tone": 0.0,
+        "tone": -1.7518,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-05 00:00:00+00:00",
         "volume": 0.0292,
-        "tone": 0.0,
+        "tone": -3.5188,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-06 00:00:00+00:00",
         "volume": 0.0459,
-        "tone": 0.0,
+        "tone": -3.6127,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-07 00:00:00+00:00",
         "volume": 0.033,
-        "tone": 0.0,
+        "tone": -2.869,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-08 00:00:00+00:00",
         "volume": 0.0344,
-        "tone": 0.0,
+        "tone": -3.1894,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-09 00:00:00+00:00",
         "volume": 0.0196,
-        "tone": 0.0,
+        "tone": -2.1983,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-10 00:00:00+00:00",
         "volume": 0.0456,
-        "tone": 0.0,
+        "tone": -4.2069,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-11 00:00:00+00:00",
         "volume": 0.0322,
-        "tone": 0.0,
+        "tone": -4.2449,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-12 00:00:00+00:00",
         "volume": 0.0437,
-        "tone": 0.0,
+        "tone": -0.6023,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-13 00:00:00+00:00",
         "volume": 0.0539,
-        "tone": 0.0,
+        "tone": -4.667,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-14 00:00:00+00:00",
         "volume": 0.0223,
-        "tone": 0.0,
+        "tone": -3.7125,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-15 00:00:00+00:00",
         "volume": 0.0322,
-        "tone": 0.0,
+        "tone": -2.0743,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-16 00:00:00+00:00",
         "volume": 0.0302,
-        "tone": 0.0,
+        "tone": -3.3237,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-17 00:00:00+00:00",
         "volume": 0.02,
-        "tone": 0.0,
+        "tone": -3.9413,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-18 00:00:00+00:00",
         "volume": 0.0229,
-        "tone": 0.0,
+        "tone": -1.5049,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-19 00:00:00+00:00",
         "volume": 0.0267,
-        "tone": 0.0,
+        "tone": -1.9211,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-20 00:00:00+00:00",
         "volume": 0.0255,
-        "tone": 0.0,
+        "tone": -1.8002,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-21 00:00:00+00:00",
         "volume": 0.0245,
-        "tone": 0.0,
+        "tone": -1.2325,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-22 00:00:00+00:00",
         "volume": 0.0492,
-        "tone": 0.0,
+        "tone": -1.662,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-23 00:00:00+00:00",
         "volume": 0.0573,
-        "tone": 0.0,
+        "tone": -1.0215,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-24 00:00:00+00:00",
         "volume": 0.0766,
-        "tone": 0.0,
+        "tone": -2.465,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-25 00:00:00+00:00",
         "volume": 0.0536,
-        "tone": 0.0,
+        "tone": -3.7273,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-26 00:00:00+00:00",
         "volume": 0.03,
-        "tone": 0.0,
+        "tone": -2.565,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-27 00:00:00+00:00",
         "volume": 0.0315,
-        "tone": 0.0,
+        "tone": -4.1963,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-28 00:00:00+00:00",
         "volume": 0.0252,
-        "tone": 0.0,
+        "tone": -3.2922,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-29 00:00:00+00:00",
         "volume": 0.0346,
-        "tone": 0.0,
+        "tone": -3.0435,
         "country": "Ethiopia"
       },
       {
         "date": "2025-11-30 00:00:00+00:00",
         "volume": 0.0237,
-        "tone": 0.0,
+        "tone": -1.2342,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-01 00:00:00+00:00",
         "volume": 0.0363,
-        "tone": 0.0,
+        "tone": -2.924,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-02 00:00:00+00:00",
         "volume": 0.0393,
-        "tone": 0.0,
+        "tone": -2.5293,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-03 00:00:00+00:00",
         "volume": 0.0275,
-        "tone": 0.0,
+        "tone": -2.1261,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-04 00:00:00+00:00",
         "volume": 0.0464,
-        "tone": 0.0,
+        "tone": -4.2407,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-05 00:00:00+00:00",
         "volume": 0.0351,
-        "tone": 0.0,
+        "tone": -3.1148,
         "country": "Ethiopia"
       },
       {
@@ -2625,1084 +2619,1084 @@
       {
         "date": "2025-12-07 00:00:00+00:00",
         "volume": 0.0419,
-        "tone": 0.0,
+        "tone": -3.7321,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-08 00:00:00+00:00",
         "volume": 0.0282,
-        "tone": 0.0,
+        "tone": -2.3956,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-09 00:00:00+00:00",
         "volume": 0.0283,
-        "tone": 0.0,
+        "tone": -1.7137,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-10 00:00:00+00:00",
         "volume": 0.0488,
-        "tone": 0.0,
+        "tone": -2.2415,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-11 00:00:00+00:00",
         "volume": 0.0276,
-        "tone": 0.0,
+        "tone": -2.2179,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-12 00:00:00+00:00",
         "volume": 0.0625,
-        "tone": 0.0,
+        "tone": 0.6487,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-13 00:00:00+00:00",
         "volume": 0.0578,
-        "tone": 0.0,
+        "tone": -1.9435,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-14 00:00:00+00:00",
         "volume": 0.0355,
-        "tone": 0.0,
+        "tone": -2.253,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-15 00:00:00+00:00",
         "volume": 0.0367,
-        "tone": 0.0,
+        "tone": -2.2562,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-16 00:00:00+00:00",
         "volume": 0.056,
-        "tone": 0.0,
+        "tone": -6.3087,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-17 00:00:00+00:00",
         "volume": 0.0337,
-        "tone": 0.0,
+        "tone": -0.6595,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-18 00:00:00+00:00",
         "volume": 0.0437,
-        "tone": 0.0,
+        "tone": -2.4734,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-19 00:00:00+00:00",
         "volume": 0.032,
-        "tone": 0.0,
+        "tone": -0.8291,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-20 00:00:00+00:00",
         "volume": 0.029,
-        "tone": 0.0,
+        "tone": -2.5919,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-21 00:00:00+00:00",
         "volume": 0.0296,
-        "tone": 0.0,
+        "tone": -2.2876,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-22 00:00:00+00:00",
         "volume": 0.0255,
-        "tone": 0.0,
+        "tone": -1.4782,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-23 00:00:00+00:00",
         "volume": 0.0173,
-        "tone": 0.0,
+        "tone": -1.5585,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-24 00:00:00+00:00",
         "volume": 0.0325,
-        "tone": 0.0,
+        "tone": -2.5069,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-25 00:00:00+00:00",
         "volume": 0.0342,
-        "tone": 0.0,
+        "tone": -2.9678,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-26 00:00:00+00:00",
         "volume": 0.0569,
-        "tone": 0.0,
+        "tone": -1.0459,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-27 00:00:00+00:00",
         "volume": 0.1623,
-        "tone": 0.0,
+        "tone": -1.7427,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-28 00:00:00+00:00",
         "volume": 0.0815,
-        "tone": 0.0,
+        "tone": -1.4401,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-29 00:00:00+00:00",
         "volume": 0.0798,
-        "tone": 0.0,
+        "tone": -2.1711,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-30 00:00:00+00:00",
         "volume": 0.0511,
-        "tone": 0.0,
+        "tone": -2.7824,
         "country": "Ethiopia"
       },
       {
         "date": "2025-12-31 00:00:00+00:00",
         "volume": 0.0837,
-        "tone": 0.0,
+        "tone": -2.3435,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-01 00:00:00+00:00",
         "volume": 0.0709,
-        "tone": 0.0,
+        "tone": -1.6118,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-02 00:00:00+00:00",
         "volume": 0.0443,
-        "tone": 0.0,
+        "tone": -2.0666,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-03 00:00:00+00:00",
         "volume": 0.0319,
-        "tone": 0.0,
+        "tone": -2.6155,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-04 00:00:00+00:00",
         "volume": 0.0411,
-        "tone": 0.0,
+        "tone": -2.2252,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-05 00:00:00+00:00",
         "volume": 0.0298,
-        "tone": 0.0,
+        "tone": -2.2181,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-06 00:00:00+00:00",
         "volume": 0.0443,
-        "tone": 0.0,
+        "tone": -2.7218,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-07 00:00:00+00:00",
         "volume": 0.0269,
-        "tone": 0.0,
+        "tone": -2.0975,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-08 00:00:00+00:00",
         "volume": 0.0545,
-        "tone": 0.0,
+        "tone": -1.981,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-09 00:00:00+00:00",
         "volume": 0.0413,
-        "tone": 0.0,
+        "tone": -2.4267,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-10 00:00:00+00:00",
         "volume": 0.0654,
-        "tone": 0.0,
+        "tone": -2.3782,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-11 00:00:00+00:00",
         "volume": 0.0406,
-        "tone": 0.0,
+        "tone": -2.4573,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-12 00:00:00+00:00",
         "volume": 0.0509,
-        "tone": 0.0,
+        "tone": -1.8857,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-13 00:00:00+00:00",
         "volume": 0.0433,
-        "tone": 0.0,
+        "tone": -2.9685,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-14 00:00:00+00:00",
         "volume": 0.0576,
-        "tone": 0.0,
+        "tone": -1.6591,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-15 00:00:00+00:00",
         "volume": 0.1278,
-        "tone": 0.0,
+        "tone": -1.6146,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-16 00:00:00+00:00",
         "volume": 0.0408,
-        "tone": 0.0,
+        "tone": -1.6959,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-17 00:00:00+00:00",
         "volume": 0.1024,
-        "tone": 0.0,
+        "tone": -2.0467,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-18 00:00:00+00:00",
         "volume": 0.0515,
-        "tone": 0.0,
+        "tone": -1.1532,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-19 00:00:00+00:00",
         "volume": 0.0301,
-        "tone": 0.0,
+        "tone": -1.1001,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-20 00:00:00+00:00",
         "volume": 0.0434,
-        "tone": 0.0,
+        "tone": -1.8543,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-21 00:00:00+00:00",
         "volume": 0.0704,
-        "tone": 0.0,
+        "tone": -1.9921,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-22 00:00:00+00:00",
         "volume": 0.0525,
-        "tone": 0.0,
+        "tone": -1.1506,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-23 00:00:00+00:00",
         "volume": 0.0383,
-        "tone": 0.0,
+        "tone": -1.9776,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-24 00:00:00+00:00",
         "volume": 0.0342,
-        "tone": 0.0,
+        "tone": -2.3357,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-25 00:00:00+00:00",
         "volume": 0.0319,
-        "tone": 0.0,
+        "tone": -2.5652,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-26 00:00:00+00:00",
         "volume": 0.0308,
-        "tone": 0.0,
+        "tone": -3.751,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-27 00:00:00+00:00",
         "volume": 0.0346,
-        "tone": 0.0,
+        "tone": -3.724,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-28 00:00:00+00:00",
         "volume": 0.0239,
-        "tone": 0.0,
+        "tone": -2.6312,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-29 00:00:00+00:00",
         "volume": 0.0239,
-        "tone": 0.0,
+        "tone": -2.8894,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-30 00:00:00+00:00",
         "volume": 0.0228,
-        "tone": 0.0,
+        "tone": -2.5856,
         "country": "Ethiopia"
       },
       {
         "date": "2026-01-31 00:00:00+00:00",
         "volume": 0.0481,
-        "tone": 0.0,
+        "tone": -0.3246,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-01 00:00:00+00:00",
         "volume": 0.0435,
-        "tone": 0.0,
+        "tone": -1.6021,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-02 00:00:00+00:00",
         "volume": 0.0371,
-        "tone": 0.0,
+        "tone": -1.5226,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-03 00:00:00+00:00",
         "volume": 0.0347,
-        "tone": 0.0,
+        "tone": -3.6866,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-04 00:00:00+00:00",
         "volume": 0.0272,
-        "tone": 0.0,
+        "tone": -3.2322,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-05 00:00:00+00:00",
         "volume": 0.0218,
-        "tone": 0.0,
+        "tone": -1.5962,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-06 00:00:00+00:00",
         "volume": 0.0229,
-        "tone": 0.0,
+        "tone": -1.3598,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-07 00:00:00+00:00",
         "volume": 0.0428,
-        "tone": 0.0,
+        "tone": -1.9241,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-08 00:00:00+00:00",
         "volume": 0.0356,
-        "tone": 0.0,
+        "tone": -5.4014,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-09 00:00:00+00:00",
         "volume": 0.0335,
-        "tone": 0.0,
+        "tone": -2.8776,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-10 00:00:00+00:00",
         "volume": 0.0423,
-        "tone": 0.0,
+        "tone": -1.7703,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-11 00:00:00+00:00",
         "volume": 0.0325,
-        "tone": 0.0,
+        "tone": -2.0399,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-12 00:00:00+00:00",
         "volume": 0.035,
-        "tone": 0.0,
+        "tone": -0.4695,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-13 00:00:00+00:00",
         "volume": 0.0326,
-        "tone": 0.0,
+        "tone": -1.8973,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-14 00:00:00+00:00",
         "volume": 0.0635,
-        "tone": 0.0,
+        "tone": -1.4654,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-15 00:00:00+00:00",
         "volume": 0.0842,
-        "tone": 0.0,
+        "tone": -1.5835,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-16 00:00:00+00:00",
         "volume": 0.0646,
-        "tone": 0.0,
+        "tone": -0.5344,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-17 00:00:00+00:00",
         "volume": 0.04,
-        "tone": 0.0,
+        "tone": 0.2445,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-18 00:00:00+00:00",
         "volume": 0.0536,
-        "tone": 0.0,
+        "tone": -1.3358,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-19 00:00:00+00:00",
         "volume": 0.0291,
-        "tone": 0.0,
+        "tone": -2.1951,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-20 00:00:00+00:00",
         "volume": 0.0289,
-        "tone": 0.0,
+        "tone": -1.6818,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-21 00:00:00+00:00",
         "volume": 0.0409,
-        "tone": 0.0,
+        "tone": -3.08,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-22 00:00:00+00:00",
         "volume": 0.0366,
-        "tone": 0.0,
+        "tone": -1.195,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-23 00:00:00+00:00",
         "volume": 0.0325,
-        "tone": 0.0,
+        "tone": -3.5253,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-24 00:00:00+00:00",
         "volume": 0.0474,
-        "tone": 0.0,
+        "tone": -3.5639,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-25 00:00:00+00:00",
         "volume": 0.1374,
-        "tone": 0.0,
+        "tone": -1.7487,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-26 00:00:00+00:00",
         "volume": 0.0689,
-        "tone": 0.0,
+        "tone": -3.2596,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-27 00:00:00+00:00",
         "volume": 0.0364,
-        "tone": 0.0,
+        "tone": -2.0901,
         "country": "Ethiopia"
       },
       {
         "date": "2026-02-28 00:00:00+00:00",
         "volume": 0.0513,
-        "tone": 0.0,
+        "tone": -3.4423,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-01 00:00:00+00:00",
         "volume": 0.0338,
-        "tone": 0.0,
+        "tone": -2.5719,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-02 00:00:00+00:00",
         "volume": 0.0446,
-        "tone": 0.0,
+        "tone": -1.8943,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-03 00:00:00+00:00",
         "volume": 0.0542,
-        "tone": 0.0,
+        "tone": -2.9125,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-04 00:00:00+00:00",
         "volume": 0.0477,
-        "tone": 0.0,
+        "tone": -2.255,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-05 00:00:00+00:00",
         "volume": 0.0369,
-        "tone": 0.0,
+        "tone": -3.547,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-06 00:00:00+00:00",
         "volume": 0.0278,
-        "tone": 0.0,
+        "tone": -2.9131,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-07 00:00:00+00:00",
         "volume": 0.0561,
-        "tone": 0.0,
+        "tone": -1.8338,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-08 00:00:00+00:00",
         "volume": 0.0841,
-        "tone": 0.0,
+        "tone": -2.6853,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-09 00:00:00+00:00",
         "volume": 0.0483,
-        "tone": 0.0,
+        "tone": -2.3842,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-10 00:00:00+00:00",
         "volume": 0.041,
-        "tone": 0.0,
+        "tone": -4.1002,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-11 00:00:00+00:00",
         "volume": 0.0258,
-        "tone": 0.0,
+        "tone": -2.7568,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-12 00:00:00+00:00",
         "volume": 0.0476,
-        "tone": 0.0,
+        "tone": -4.6854,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-13 00:00:00+00:00",
         "volume": 0.0255,
-        "tone": 0.0,
+        "tone": -1.7265,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-14 00:00:00+00:00",
         "volume": 0.0504,
-        "tone": 0.0,
+        "tone": -3.3456,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-15 00:00:00+00:00",
         "volume": 0.0429,
-        "tone": 0.0,
+        "tone": -3.0976,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-16 00:00:00+00:00",
         "volume": 0.0532,
-        "tone": 0.0,
+        "tone": -2.5093,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-17 00:00:00+00:00",
         "volume": 0.1093,
-        "tone": 0.0,
+        "tone": -2.1662,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-18 00:00:00+00:00",
         "volume": 0.0239,
-        "tone": 0.0,
+        "tone": -3.0415,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-19 00:00:00+00:00",
         "volume": 0.0452,
-        "tone": 0.0,
+        "tone": -0.9841,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-20 00:00:00+00:00",
         "volume": 0.0506,
-        "tone": 0.0,
+        "tone": -2.2994,
         "country": "Ethiopia"
       },
       {
         "date": "2026-03-21 00:00:00+00:00",
-        "volume": 0.0079,
-        "tone": 0.0,
+        "volume": 0.0501,
+        "tone": -3.2892,
+        "country": "Ethiopia"
+      },
+      {
+        "date": "2026-03-22 00:00:00+00:00",
+        "volume": 0.0907,
+        "tone": -2.5773,
         "country": "Ethiopia"
       }
     ]
   },
   "Mali": {
-    "fetched_at": "2026-03-21T05:24:43.617124",
+    "fetched_at": "2026-03-22T05:33:46.608624",
     "data": []
   },
   "Niger": {
-    "fetched_at": "2026-03-21T05:25:41.010358",
+    "fetched_at": "2026-03-22T05:34:19.511390",
     "data": [
-      {
-        "date": "2025-09-23 00:00:00+00:00",
-        "volume": 0.048,
-        "tone": 0.0,
-        "country": "Niger"
-      },
       {
         "date": "2025-09-24 00:00:00+00:00",
         "volume": 0.0216,
-        "tone": 0.0,
+        "tone": -4.7859,
         "country": "Niger"
       },
       {
         "date": "2025-09-25 00:00:00+00:00",
         "volume": 0.0176,
-        "tone": 0.0,
+        "tone": -2.9507,
         "country": "Niger"
       },
       {
         "date": "2025-09-26 00:00:00+00:00",
         "volume": 0.019,
-        "tone": 0.0,
+        "tone": -2.7461,
         "country": "Niger"
       },
       {
         "date": "2025-09-27 00:00:00+00:00",
         "volume": 0.0268,
-        "tone": 0.0,
+        "tone": -3.1248,
         "country": "Niger"
       },
       {
         "date": "2025-09-28 00:00:00+00:00",
         "volume": 0.022,
-        "tone": 0.0,
+        "tone": -3.5991,
         "country": "Niger"
       },
       {
         "date": "2025-09-29 00:00:00+00:00",
         "volume": 0.0212,
-        "tone": 0.0,
+        "tone": -3.6135,
         "country": "Niger"
       },
       {
         "date": "2025-09-30 00:00:00+00:00",
         "volume": 0.0141,
-        "tone": 0.0,
+        "tone": -4.1013,
         "country": "Niger"
       },
       {
         "date": "2025-10-01 00:00:00+00:00",
         "volume": 0.0164,
-        "tone": 0.0,
+        "tone": -3.5653,
         "country": "Niger"
       },
       {
         "date": "2025-10-02 00:00:00+00:00",
         "volume": 0.0131,
-        "tone": 0.0,
+        "tone": -3.2166,
         "country": "Niger"
       },
       {
         "date": "2025-10-03 00:00:00+00:00",
         "volume": 0.0245,
-        "tone": 0.0,
+        "tone": -4.1705,
         "country": "Niger"
       },
       {
         "date": "2025-10-04 00:00:00+00:00",
         "volume": 0.014,
-        "tone": 0.0,
+        "tone": -3.8073,
         "country": "Niger"
       },
       {
         "date": "2025-10-05 00:00:00+00:00",
         "volume": 0.0314,
-        "tone": 0.0,
+        "tone": -3.7031,
         "country": "Niger"
       },
       {
         "date": "2025-10-06 00:00:00+00:00",
         "volume": 0.0206,
-        "tone": 0.0,
+        "tone": -3.4433,
         "country": "Niger"
       },
       {
         "date": "2025-10-07 00:00:00+00:00",
         "volume": 0.0268,
-        "tone": 0.0,
+        "tone": -3.0662,
         "country": "Niger"
       },
       {
         "date": "2025-10-08 00:00:00+00:00",
         "volume": 0.017,
-        "tone": 0.0,
+        "tone": -2.2255,
         "country": "Niger"
       },
       {
         "date": "2025-10-09 00:00:00+00:00",
         "volume": 0.0176,
-        "tone": 0.0,
+        "tone": -3.3212,
         "country": "Niger"
       },
       {
         "date": "2025-10-10 00:00:00+00:00",
         "volume": 0.0182,
-        "tone": 0.0,
+        "tone": -3.1304,
         "country": "Niger"
       },
       {
         "date": "2025-10-11 00:00:00+00:00",
         "volume": 0.0187,
-        "tone": 0.0,
+        "tone": -4.5208,
         "country": "Niger"
       },
       {
         "date": "2025-10-12 00:00:00+00:00",
         "volume": 0.0358,
-        "tone": 0.0,
+        "tone": -3.6613,
         "country": "Niger"
       },
       {
         "date": "2025-10-13 00:00:00+00:00",
         "volume": 0.0123,
-        "tone": 0.0,
+        "tone": -2.284,
         "country": "Niger"
       },
       {
         "date": "2025-10-14 00:00:00+00:00",
         "volume": 0.0142,
-        "tone": 0.0,
+        "tone": -3.546,
         "country": "Niger"
       },
       {
         "date": "2025-10-15 00:00:00+00:00",
         "volume": 0.0145,
-        "tone": 0.0,
+        "tone": -2.0863,
         "country": "Niger"
       },
       {
         "date": "2025-10-16 00:00:00+00:00",
         "volume": 0.0159,
-        "tone": 0.0,
+        "tone": -2.9388,
         "country": "Niger"
       },
       {
         "date": "2025-10-17 00:00:00+00:00",
         "volume": 0.0304,
-        "tone": 0.0,
+        "tone": -4.7871,
         "country": "Niger"
       },
       {
         "date": "2025-10-18 00:00:00+00:00",
         "volume": 0.0205,
-        "tone": 0.0,
+        "tone": -3.9772,
         "country": "Niger"
       },
       {
         "date": "2025-10-19 00:00:00+00:00",
         "volume": 0.0327,
-        "tone": 0.0,
+        "tone": -5.1496,
         "country": "Niger"
       },
       {
         "date": "2025-10-20 00:00:00+00:00",
         "volume": 0.015,
-        "tone": 0.0,
+        "tone": -3.1325,
         "country": "Niger"
       },
       {
         "date": "2025-10-21 00:00:00+00:00",
         "volume": 0.0464,
-        "tone": 0.0,
+        "tone": -4.7074,
         "country": "Niger"
       },
       {
         "date": "2025-10-22 00:00:00+00:00",
         "volume": 0.0186,
-        "tone": 0.0,
+        "tone": -3.4475,
         "country": "Niger"
       },
       {
         "date": "2025-10-23 00:00:00+00:00",
         "volume": 0.0143,
-        "tone": 0.0,
+        "tone": -4.2348,
         "country": "Niger"
       },
       {
         "date": "2025-10-24 00:00:00+00:00",
         "volume": 0.0255,
-        "tone": 0.0,
+        "tone": -4.4861,
         "country": "Niger"
       },
       {
         "date": "2025-10-25 00:00:00+00:00",
         "volume": 0.0209,
-        "tone": 0.0,
+        "tone": -2.9761,
         "country": "Niger"
       },
       {
         "date": "2025-10-26 00:00:00+00:00",
         "volume": 0.0179,
-        "tone": 0.0,
+        "tone": -3.4592,
         "country": "Niger"
       },
       {
         "date": "2025-10-27 00:00:00+00:00",
         "volume": 0.0181,
-        "tone": 0.0,
+        "tone": -5.0945,
         "country": "Niger"
       },
       {
         "date": "2025-10-28 00:00:00+00:00",
         "volume": 0.0136,
-        "tone": 0.0,
+        "tone": -3.2798,
         "country": "Niger"
       },
       {
         "date": "2025-10-29 00:00:00+00:00",
         "volume": 0.0177,
-        "tone": 0.0,
+        "tone": -4.647,
         "country": "Niger"
       },
       {
         "date": "2025-10-30 00:00:00+00:00",
         "volume": 0.0085,
-        "tone": 0.0,
+        "tone": -3.3491,
         "country": "Niger"
       },
       {
         "date": "2025-10-31 00:00:00+00:00",
         "volume": 0.0238,
-        "tone": 0.0,
+        "tone": -3.8388,
         "country": "Niger"
       },
       {
         "date": "2025-11-01 00:00:00+00:00",
         "volume": 0.0194,
-        "tone": 0.0,
+        "tone": -3.8007,
         "country": "Niger"
       },
       {
         "date": "2025-11-02 00:00:00+00:00",
         "volume": 0.0548,
-        "tone": 0.0,
+        "tone": -5.1116,
         "country": "Niger"
       },
       {
         "date": "2025-11-03 00:00:00+00:00",
         "volume": 0.0408,
-        "tone": 0.0,
+        "tone": -4.0468,
         "country": "Niger"
       },
       {
         "date": "2025-11-04 00:00:00+00:00",
         "volume": 0.0406,
-        "tone": 0.0,
+        "tone": -3.744,
         "country": "Niger"
       },
       {
         "date": "2025-11-05 00:00:00+00:00",
         "volume": 0.0368,
-        "tone": 0.0,
+        "tone": -4.5947,
         "country": "Niger"
       },
       {
         "date": "2025-11-06 00:00:00+00:00",
         "volume": 0.0263,
-        "tone": 0.0,
+        "tone": -4.3453,
         "country": "Niger"
       },
       {
         "date": "2025-11-07 00:00:00+00:00",
         "volume": 0.0197,
-        "tone": 0.0,
+        "tone": -3.6384,
         "country": "Niger"
       },
       {
         "date": "2025-11-08 00:00:00+00:00",
         "volume": 0.0218,
-        "tone": 0.0,
+        "tone": -3.9012,
         "country": "Niger"
       },
       {
         "date": "2025-11-09 00:00:00+00:00",
         "volume": 0.0378,
-        "tone": 0.0,
+        "tone": -4.8675,
         "country": "Niger"
       },
       {
         "date": "2025-11-10 00:00:00+00:00",
         "volume": 0.0439,
-        "tone": 0.0,
+        "tone": -4.3149,
         "country": "Niger"
       },
       {
         "date": "2025-11-11 00:00:00+00:00",
         "volume": 0.0334,
-        "tone": 0.0,
+        "tone": -3.1956,
         "country": "Niger"
       },
       {
         "date": "2025-11-12 00:00:00+00:00",
         "volume": 0.0175,
-        "tone": 0.0,
+        "tone": -1.8458,
         "country": "Niger"
       },
       {
         "date": "2025-11-13 00:00:00+00:00",
         "volume": 0.0144,
-        "tone": 0.0,
+        "tone": -4.4236,
         "country": "Niger"
       },
       {
         "date": "2025-11-14 00:00:00+00:00",
         "volume": 0.0127,
-        "tone": 0.0,
+        "tone": -3.5213,
         "country": "Niger"
       },
       {
         "date": "2025-11-15 00:00:00+00:00",
         "volume": 0.0203,
-        "tone": 0.0,
+        "tone": -4.0893,
         "country": "Niger"
       },
       {
         "date": "2025-11-16 00:00:00+00:00",
         "volume": 0.0189,
-        "tone": 0.0,
+        "tone": -3.2183,
         "country": "Niger"
       },
       {
         "date": "2025-11-17 00:00:00+00:00",
         "volume": 0.0289,
-        "tone": 0.0,
+        "tone": -4.0528,
         "country": "Niger"
       },
       {
         "date": "2025-11-18 00:00:00+00:00",
         "volume": 0.0249,
-        "tone": 0.0,
+        "tone": -4.9499,
         "country": "Niger"
       },
       {
         "date": "2025-11-19 00:00:00+00:00",
         "volume": 0.0347,
-        "tone": 0.0,
+        "tone": -4.6324,
         "country": "Niger"
       },
       {
         "date": "2025-11-20 00:00:00+00:00",
         "volume": 0.0422,
-        "tone": 0.0,
+        "tone": -3.0634,
         "country": "Niger"
       },
       {
         "date": "2025-11-21 00:00:00+00:00",
         "volume": 0.1026,
-        "tone": 0.0,
+        "tone": -5.4971,
         "country": "Niger"
       },
       {
         "date": "2025-11-22 00:00:00+00:00",
         "volume": 0.2858,
-        "tone": 0.0,
+        "tone": -5.2876,
         "country": "Niger"
       },
       {
         "date": "2025-11-23 00:00:00+00:00",
         "volume": 0.2808,
-        "tone": 0.0,
+        "tone": -4.343,
         "country": "Niger"
       },
       {
         "date": "2025-11-24 00:00:00+00:00",
         "volume": 0.1067,
-        "tone": 0.0,
+        "tone": -4.6021,
         "country": "Niger"
       },
       {
         "date": "2025-11-25 00:00:00+00:00",
         "volume": 0.0728,
-        "tone": 0.0,
+        "tone": -5.0165,
         "country": "Niger"
       },
       {
         "date": "2025-11-26 00:00:00+00:00",
         "volume": 0.1276,
-        "tone": 0.0,
+        "tone": -5.8386,
         "country": "Niger"
       },
       {
         "date": "2025-11-27 00:00:00+00:00",
         "volume": 0.0693,
-        "tone": 0.0,
+        "tone": -4.9583,
         "country": "Niger"
       },
       {
         "date": "2025-11-28 00:00:00+00:00",
         "volume": 0.0331,
-        "tone": 0.0,
+        "tone": -4.5146,
         "country": "Niger"
       },
       {
         "date": "2025-11-29 00:00:00+00:00",
         "volume": 0.0469,
-        "tone": 0.0,
+        "tone": -4.874,
         "country": "Niger"
       },
       {
         "date": "2025-11-30 00:00:00+00:00",
         "volume": 0.0631,
-        "tone": 0.0,
+        "tone": -4.4759,
         "country": "Niger"
       },
       {
         "date": "2025-12-01 00:00:00+00:00",
         "volume": 0.0504,
-        "tone": 0.0,
+        "tone": -2.7983,
         "country": "Niger"
       },
       {
         "date": "2025-12-02 00:00:00+00:00",
         "volume": 0.0253,
-        "tone": 0.0,
+        "tone": -2.7422,
         "country": "Niger"
       },
       {
         "date": "2025-12-03 00:00:00+00:00",
         "volume": 0.0252,
-        "tone": 0.0,
+        "tone": -3.0328,
         "country": "Niger"
       },
       {
         "date": "2025-12-04 00:00:00+00:00",
         "volume": 0.0399,
-        "tone": 0.0,
+        "tone": -4.3712,
         "country": "Niger"
       },
       {
         "date": "2025-12-05 00:00:00+00:00",
         "volume": 0.0288,
-        "tone": 0.0,
+        "tone": -3.4245,
         "country": "Niger"
       },
       {
@@ -3714,499 +3708,499 @@
       {
         "date": "2025-12-07 00:00:00+00:00",
         "volume": 0.1355,
-        "tone": 0.0,
+        "tone": -3.6996,
         "country": "Niger"
       },
       {
         "date": "2025-12-08 00:00:00+00:00",
         "volume": 0.1215,
-        "tone": 0.0,
+        "tone": -4.0323,
         "country": "Niger"
       },
       {
         "date": "2025-12-09 00:00:00+00:00",
         "volume": 0.0509,
-        "tone": 0.0,
+        "tone": -4.1251,
         "country": "Niger"
       },
       {
         "date": "2025-12-10 00:00:00+00:00",
         "volume": 0.0319,
-        "tone": 0.0,
+        "tone": -3.3455,
         "country": "Niger"
       },
       {
         "date": "2025-12-11 00:00:00+00:00",
         "volume": 0.0283,
-        "tone": 0.0,
+        "tone": -3.2163,
         "country": "Niger"
       },
       {
         "date": "2025-12-12 00:00:00+00:00",
         "volume": 0.0176,
-        "tone": 0.0,
+        "tone": -2.2003,
         "country": "Niger"
       },
       {
         "date": "2025-12-13 00:00:00+00:00",
         "volume": 0.0185,
-        "tone": 0.0,
+        "tone": -2.1168,
         "country": "Niger"
       },
       {
         "date": "2025-12-14 00:00:00+00:00",
-        "volume": 0.0,
-        "tone": 0.0,
+        "volume": 0.0363,
+        "tone": -2.3058,
         "country": "Niger"
       },
       {
         "date": "2025-12-15 00:00:00+00:00",
-        "volume": 0.0,
-        "tone": 0.0,
+        "volume": 0.0236,
+        "tone": -1.9669,
         "country": "Niger"
       },
       {
         "date": "2025-12-16 00:00:00+00:00",
-        "volume": 0.0,
-        "tone": 0.0,
+        "volume": 0.0288,
+        "tone": -5.1442,
         "country": "Niger"
       },
       {
         "date": "2025-12-17 00:00:00+00:00",
-        "volume": 0.0,
-        "tone": 0.0,
+        "volume": 0.1159,
+        "tone": -5.2942,
         "country": "Niger"
       },
       {
         "date": "2025-12-18 00:00:00+00:00",
-        "volume": 0.0,
-        "tone": 0.0,
+        "volume": 0.0288,
+        "tone": -3.8038,
         "country": "Niger"
       },
       {
         "date": "2025-12-19 00:00:00+00:00",
-        "volume": 0.0,
-        "tone": 0.0,
+        "volume": 0.0275,
+        "tone": -2.1573,
         "country": "Niger"
       },
       {
         "date": "2025-12-20 00:00:00+00:00",
-        "volume": 0.0,
-        "tone": 0.0,
+        "volume": 0.023,
+        "tone": -2.7722,
         "country": "Niger"
       },
       {
         "date": "2025-12-21 00:00:00+00:00",
         "volume": 0.0565,
-        "tone": 0.0,
+        "tone": -4.0264,
         "country": "Niger"
       },
       {
         "date": "2025-12-22 00:00:00+00:00",
         "volume": 0.0773,
-        "tone": 0.0,
+        "tone": -4.079,
         "country": "Niger"
       },
       {
         "date": "2025-12-23 00:00:00+00:00",
         "volume": 0.0429,
-        "tone": 0.0,
+        "tone": -2.9579,
         "country": "Niger"
       },
       {
         "date": "2025-12-24 00:00:00+00:00",
         "volume": 0.0522,
-        "tone": 0.0,
+        "tone": -2.5534,
         "country": "Niger"
       },
       {
         "date": "2025-12-25 00:00:00+00:00",
         "volume": 0.0427,
-        "tone": 0.0,
+        "tone": -5.3676,
         "country": "Niger"
       },
       {
         "date": "2025-12-26 00:00:00+00:00",
         "volume": 0.2214,
-        "tone": 0.0,
+        "tone": -4.6402,
         "country": "Niger"
       },
       {
         "date": "2025-12-27 00:00:00+00:00",
         "volume": 0.1637,
-        "tone": 0.0,
+        "tone": -4.3525,
         "country": "Niger"
       },
       {
         "date": "2025-12-28 00:00:00+00:00",
         "volume": 0.0465,
-        "tone": 0.0,
+        "tone": -4.1553,
         "country": "Niger"
       },
       {
         "date": "2025-12-29 00:00:00+00:00",
         "volume": 0.0368,
-        "tone": 0.0,
+        "tone": -3.0885,
         "country": "Niger"
       },
       {
         "date": "2025-12-30 00:00:00+00:00",
         "volume": 0.0188,
-        "tone": 0.0,
+        "tone": -3.3719,
         "country": "Niger"
       },
       {
         "date": "2025-12-31 00:00:00+00:00",
         "volume": 0.0399,
-        "tone": 0.0,
+        "tone": -4.6122,
         "country": "Niger"
       },
       {
         "date": "2026-01-01 00:00:00+00:00",
         "volume": 0.0326,
-        "tone": 0.0,
+        "tone": -3.0876,
         "country": "Niger"
       },
       {
         "date": "2026-01-02 00:00:00+00:00",
         "volume": 0.017,
-        "tone": 0.0,
+        "tone": -3.4878,
         "country": "Niger"
       },
       {
         "date": "2026-01-03 00:00:00+00:00",
         "volume": 0.0152,
-        "tone": 0.0,
+        "tone": -3.8236,
         "country": "Niger"
       },
       {
         "date": "2026-01-04 00:00:00+00:00",
         "volume": 0.1123,
-        "tone": 0.0,
+        "tone": -7.3446,
         "country": "Niger"
       },
       {
         "date": "2026-01-05 00:00:00+00:00",
         "volume": 0.0719,
-        "tone": 0.0,
+        "tone": -6.5322,
         "country": "Niger"
       },
       {
         "date": "2026-01-06 00:00:00+00:00",
         "volume": 0.0291,
-        "tone": 0.0,
+        "tone": -5.0105,
         "country": "Niger"
       },
       {
         "date": "2026-01-07 00:00:00+00:00",
         "volume": 0.0353,
-        "tone": 0.0,
+        "tone": -3.826,
         "country": "Niger"
       },
       {
         "date": "2026-01-08 00:00:00+00:00",
         "volume": 0.0433,
-        "tone": 0.0,
+        "tone": -4.6297,
         "country": "Niger"
       },
       {
         "date": "2026-01-09 00:00:00+00:00",
         "volume": 0.0207,
-        "tone": 0.0,
+        "tone": -3.3433,
         "country": "Niger"
       },
       {
         "date": "2026-01-10 00:00:00+00:00",
         "volume": 0.0136,
-        "tone": 0.0,
+        "tone": -3.512,
         "country": "Niger"
       },
       {
         "date": "2026-01-11 00:00:00+00:00",
         "volume": 0.0179,
-        "tone": 0.0,
+        "tone": -3.8128,
         "country": "Niger"
       },
       {
         "date": "2026-01-12 00:00:00+00:00",
         "volume": 0.0148,
-        "tone": 0.0,
+        "tone": -4.9863,
         "country": "Niger"
       },
       {
         "date": "2026-01-13 00:00:00+00:00",
         "volume": 0.014,
-        "tone": 0.0,
+        "tone": -5.9239,
         "country": "Niger"
       },
       {
         "date": "2026-01-14 00:00:00+00:00",
         "volume": 0.0197,
-        "tone": 0.0,
+        "tone": -3.1268,
         "country": "Niger"
       },
       {
         "date": "2026-01-15 00:00:00+00:00",
         "volume": 0.0156,
-        "tone": 0.0,
+        "tone": -3.6164,
         "country": "Niger"
       },
       {
         "date": "2026-01-16 00:00:00+00:00",
         "volume": 0.0162,
-        "tone": 0.0,
+        "tone": -3.512,
         "country": "Niger"
       },
       {
         "date": "2026-01-17 00:00:00+00:00",
         "volume": 0.0154,
-        "tone": 0.0,
+        "tone": -3.6353,
         "country": "Niger"
       },
       {
         "date": "2026-01-18 00:00:00+00:00",
         "volume": 0.0156,
-        "tone": 0.0,
+        "tone": -3.1723,
         "country": "Niger"
       },
       {
         "date": "2026-01-19 00:00:00+00:00",
         "volume": 0.0155,
-        "tone": 0.0,
+        "tone": -4.3033,
         "country": "Niger"
       },
       {
         "date": "2026-01-20 00:00:00+00:00",
         "volume": 0.0257,
-        "tone": 0.0,
+        "tone": -4.8629,
         "country": "Niger"
       },
       {
         "date": "2026-01-21 00:00:00+00:00",
         "volume": 0.02,
-        "tone": 0.0,
+        "tone": -6.506,
         "country": "Niger"
       },
       {
         "date": "2026-01-22 00:00:00+00:00",
         "volume": 0.0227,
-        "tone": 0.0,
+        "tone": -5.0434,
         "country": "Niger"
       },
       {
         "date": "2026-01-23 00:00:00+00:00",
         "volume": 0.0205,
-        "tone": 0.0,
+        "tone": -3.6203,
         "country": "Niger"
       },
       {
         "date": "2026-01-24 00:00:00+00:00",
         "volume": 0.0076,
-        "tone": 0.0,
+        "tone": -3.6578,
         "country": "Niger"
       },
       {
         "date": "2026-01-25 00:00:00+00:00",
         "volume": 0.0122,
-        "tone": 0.0,
+        "tone": -3.6101,
         "country": "Niger"
       },
       {
         "date": "2026-01-26 00:00:00+00:00",
         "volume": 0.0145,
-        "tone": 0.0,
+        "tone": -3.221,
         "country": "Niger"
       },
       {
         "date": "2026-01-27 00:00:00+00:00",
         "volume": 0.0134,
-        "tone": 0.0,
+        "tone": -3.0399,
         "country": "Niger"
       },
       {
         "date": "2026-01-28 00:00:00+00:00",
         "volume": 0.011,
-        "tone": 0.0,
+        "tone": -2.2802,
         "country": "Niger"
       },
       {
         "date": "2026-01-29 00:00:00+00:00",
         "volume": 0.04,
-        "tone": 0.0,
+        "tone": -4.3185,
         "country": "Niger"
       },
       {
         "date": "2026-01-30 00:00:00+00:00",
         "volume": 0.0699,
-        "tone": 0.0,
+        "tone": -5.5847,
         "country": "Niger"
       },
       {
         "date": "2026-01-31 00:00:00+00:00",
         "volume": 0.0421,
-        "tone": 0.0,
+        "tone": -5.365,
         "country": "Niger"
       },
       {
         "date": "2026-02-01 00:00:00+00:00",
         "volume": 0.0328,
-        "tone": 0.0,
+        "tone": -5.5523,
         "country": "Niger"
       },
       {
         "date": "2026-02-02 00:00:00+00:00",
         "volume": 0.0446,
-        "tone": 0.0,
+        "tone": -4.9345,
         "country": "Niger"
       },
       {
         "date": "2026-02-03 00:00:00+00:00",
         "volume": 0.0355,
-        "tone": 0.0,
+        "tone": -4.8778,
         "country": "Niger"
       },
       {
         "date": "2026-02-04 00:00:00+00:00",
         "volume": 0.0731,
-        "tone": 0.0,
+        "tone": -6.7776,
         "country": "Niger"
       },
       {
         "date": "2026-02-05 00:00:00+00:00",
         "volume": 0.0459,
-        "tone": 0.0,
+        "tone": -7.3382,
         "country": "Niger"
       },
       {
         "date": "2026-02-06 00:00:00+00:00",
         "volume": 0.0276,
-        "tone": 0.0,
+        "tone": -5.7255,
         "country": "Niger"
       },
       {
         "date": "2026-02-07 00:00:00+00:00",
         "volume": 0.029,
-        "tone": 0.0,
+        "tone": -4.8244,
         "country": "Niger"
       },
       {
         "date": "2026-02-08 00:00:00+00:00",
         "volume": 0.0458,
-        "tone": 0.0,
+        "tone": -4.3706,
         "country": "Niger"
       },
       {
         "date": "2026-02-09 00:00:00+00:00",
         "volume": 0.0206,
-        "tone": 0.0,
+        "tone": -4.5461,
         "country": "Niger"
       },
       {
         "date": "2026-02-10 00:00:00+00:00",
         "volume": 0.0285,
-        "tone": 0.0,
+        "tone": -3.9297,
         "country": "Niger"
       },
       {
         "date": "2026-02-11 00:00:00+00:00",
         "volume": 0.0318,
-        "tone": 0.0,
+        "tone": -6.3753,
         "country": "Niger"
       },
       {
         "date": "2026-02-12 00:00:00+00:00",
         "volume": 0.0238,
-        "tone": 0.0,
+        "tone": -4.1882,
         "country": "Niger"
       },
       {
         "date": "2026-02-13 00:00:00+00:00",
         "volume": 0.0285,
-        "tone": 0.0,
+        "tone": -4.5583,
         "country": "Niger"
       },
       {
         "date": "2026-02-14 00:00:00+00:00",
         "volume": 0.0405,
-        "tone": 0.0,
+        "tone": -6.4467,
         "country": "Niger"
       },
       {
         "date": "2026-02-15 00:00:00+00:00",
         "volume": 0.0584,
-        "tone": 0.0,
+        "tone": -7.5415,
         "country": "Niger"
       },
       {
         "date": "2026-02-16 00:00:00+00:00",
         "volume": 0.0323,
-        "tone": 0.0,
+        "tone": -4.8131,
         "country": "Niger"
       },
       {
         "date": "2026-02-17 00:00:00+00:00",
         "volume": 0.0237,
-        "tone": 0.0,
+        "tone": -2.9939,
         "country": "Niger"
       },
       {
         "date": "2026-02-18 00:00:00+00:00",
         "volume": 0.013,
-        "tone": 0.0,
+        "tone": -5.3488,
         "country": "Niger"
       },
       {
         "date": "2026-02-19 00:00:00+00:00",
         "volume": 0.0187,
-        "tone": 0.0,
+        "tone": -3.7259,
         "country": "Niger"
       },
       {
         "date": "2026-02-20 00:00:00+00:00",
         "volume": 0.0168,
-        "tone": 0.0,
+        "tone": -2.8737,
         "country": "Niger"
       },
       {
         "date": "2026-02-21 00:00:00+00:00",
         "volume": 0.0317,
-        "tone": 0.0,
+        "tone": -5.2124,
         "country": "Niger"
       },
       {
         "date": "2026-02-22 00:00:00+00:00",
         "volume": 0.0114,
-        "tone": 0.0,
+        "tone": -4.988,
         "country": "Niger"
       },
       {
         "date": "2026-02-23 00:00:00+00:00",
         "volume": 0.0188,
-        "tone": 0.0,
+        "tone": -4.5276,
         "country": "Niger"
       },
       {
         "date": "2026-02-24 00:00:00+00:00",
         "volume": 0.0115,
-        "tone": 0.0,
+        "tone": -1.5961,
         "country": "Niger"
       },
       {
         "date": "2026-02-25 00:00:00+00:00",
         "volume": 0.0242,
-        "tone": 0.0,
+        "tone": -3.3396,
         "country": "Niger"
       },
       {
         "date": "2026-02-26 00:00:00+00:00",
         "volume": 0.0224,
-        "tone": 0.0,
+        "tone": -4.2722,
         "country": "Niger"
       },
       {
         "date": "2026-02-27 00:00:00+00:00",
         "volume": 0.0258,
-        "tone": 0.0,
+        "tone": -3.6427,
         "country": "Niger"
       },
       {
@@ -4218,140 +4212,140 @@
       {
         "date": "2026-03-01 00:00:00+00:00",
         "volume": 0.0233,
-        "tone": 0.0,
+        "tone": -5.5981,
         "country": "Niger"
       },
       {
         "date": "2026-03-02 00:00:00+00:00",
         "volume": 0.0165,
-        "tone": 0.0,
+        "tone": -4.5538,
         "country": "Niger"
       },
       {
         "date": "2026-03-03 00:00:00+00:00",
         "volume": 0.0081,
-        "tone": 0.0,
+        "tone": -1.5172,
         "country": "Niger"
       },
       {
         "date": "2026-03-04 00:00:00+00:00",
         "volume": 0.0131,
-        "tone": 0.0,
+        "tone": -3.1351,
         "country": "Niger"
       },
       {
         "date": "2026-03-05 00:00:00+00:00",
         "volume": 0.0154,
-        "tone": 0.0,
+        "tone": -3.7701,
         "country": "Niger"
       },
       {
         "date": "2026-03-06 00:00:00+00:00",
         "volume": 0.0177,
-        "tone": 0.0,
+        "tone": -5.3507,
         "country": "Niger"
       },
       {
         "date": "2026-03-07 00:00:00+00:00",
         "volume": 0.0098,
-        "tone": 0.0,
+        "tone": -3.3774,
         "country": "Niger"
       },
       {
         "date": "2026-03-08 00:00:00+00:00",
         "volume": 0.0352,
-        "tone": 0.0,
+        "tone": -2.4639,
         "country": "Niger"
       },
       {
         "date": "2026-03-09 00:00:00+00:00",
         "volume": 0.0389,
-        "tone": 0.0,
+        "tone": -3.3523,
         "country": "Niger"
       },
       {
         "date": "2026-03-10 00:00:00+00:00",
         "volume": 0.0152,
-        "tone": 0.0,
+        "tone": -3.9982,
         "country": "Niger"
       },
       {
         "date": "2026-03-11 00:00:00+00:00",
         "volume": 0.0112,
-        "tone": 0.0,
+        "tone": -3.1297,
         "country": "Niger"
       },
       {
         "date": "2026-03-12 00:00:00+00:00",
         "volume": 0.0127,
-        "tone": 0.0,
+        "tone": -2.6295,
         "country": "Niger"
       },
       {
         "date": "2026-03-13 00:00:00+00:00",
         "volume": 0.0137,
-        "tone": 0.0,
+        "tone": -4.8496,
         "country": "Niger"
       },
       {
         "date": "2026-03-14 00:00:00+00:00",
         "volume": 0.0264,
-        "tone": 0.0,
+        "tone": -3.2271,
         "country": "Niger"
       },
       {
         "date": "2026-03-15 00:00:00+00:00",
         "volume": 0.0162,
-        "tone": 0.0,
+        "tone": -3.3627,
         "country": "Niger"
       },
       {
         "date": "2026-03-16 00:00:00+00:00",
         "volume": 0.0152,
-        "tone": 0.0,
+        "tone": -2.6824,
         "country": "Niger"
       },
       {
         "date": "2026-03-17 00:00:00+00:00",
         "volume": 0.0362,
-        "tone": 0.0,
+        "tone": -2.2747,
         "country": "Niger"
       },
       {
         "date": "2026-03-18 00:00:00+00:00",
         "volume": 0.0174,
-        "tone": 0.0,
+        "tone": -6.9473,
         "country": "Niger"
       },
       {
         "date": "2026-03-19 00:00:00+00:00",
         "volume": 0.0466,
-        "tone": 0.0,
+        "tone": -4.5375,
         "country": "Niger"
       },
       {
         "date": "2026-03-20 00:00:00+00:00",
         "volume": 0.0117,
-        "tone": 0.0,
+        "tone": -2.8276,
         "country": "Niger"
       },
       {
         "date": "2026-03-21 00:00:00+00:00",
-        "volume": 0.0,
-        "tone": 0.0,
+        "volume": 0.0236,
+        "tone": -2.8007,
+        "country": "Niger"
+      },
+      {
+        "date": "2026-03-22 00:00:00+00:00",
+        "volume": 0.0272,
+        "tone": -3.6936,
         "country": "Niger"
       }
     ]
   },
   "Myanmar": {
-    "fetched_at": "2026-03-21T05:26:18.009068",
+    "fetched_at": "2026-03-22T05:34:57.102601",
     "data": [
-      {
-        "date": "2025-09-23 00:00:00+00:00",
-        "volume": 0.0432,
-        "tone": -1.9771,
-        "country": "Myanmar"
-      },
       {
         "date": "2025-09-24 00:00:00+00:00",
         "volume": 0.0301,
@@ -5422,21 +5416,21 @@
       },
       {
         "date": "2026-03-21 00:00:00+00:00",
-        "volume": 0.0552,
-        "tone": -4.0604,
+        "volume": 0.0236,
+        "tone": -3.5486,
+        "country": "Myanmar"
+      },
+      {
+        "date": "2026-03-22 00:00:00+00:00",
+        "volume": 0.0091,
+        "tone": -2.7439,
         "country": "Myanmar"
       }
     ]
   },
   "Colombia": {
-    "fetched_at": "2026-03-21T05:26:40.562473",
+    "fetched_at": "2026-03-22T05:35:32.147883",
     "data": [
-      {
-        "date": "2025-09-23 00:00:00+00:00",
-        "volume": 0.236,
-        "tone": -3.1525,
-        "country": "Colombia"
-      },
       {
         "date": "2025-09-24 00:00:00+00:00",
         "volume": 0.2586,
@@ -6507,21 +6501,21 @@
       },
       {
         "date": "2026-03-21 00:00:00+00:00",
-        "volume": 0.3625,
-        "tone": -2.9832,
+        "volume": 0.3063,
+        "tone": -3.3052,
+        "country": "Colombia"
+      },
+      {
+        "date": "2026-03-22 00:00:00+00:00",
+        "volume": 0.3899,
+        "tone": -2.5992,
         "country": "Colombia"
       }
     ]
   },
   "Yemen": {
-    "fetched_at": "2026-03-21T05:27:16.724056",
+    "fetched_at": "2026-03-22T05:36:22.506629",
     "data": [
-      {
-        "date": "2025-09-23 00:00:00+00:00",
-        "volume": 0.1348,
-        "tone": -3.672,
-        "country": "Yemen"
-      },
       {
         "date": "2025-09-24 00:00:00+00:00",
         "volume": 0.1441,
@@ -7592,21 +7586,21 @@
       },
       {
         "date": "2026-03-21 00:00:00+00:00",
-        "volume": 0.1182,
-        "tone": -3.0307,
+        "volume": 0.2406,
+        "tone": -3.5825,
+        "country": "Yemen"
+      },
+      {
+        "date": "2026-03-22 00:00:00+00:00",
+        "volume": 0.2629,
+        "tone": -4.0585,
         "country": "Yemen"
       }
     ]
   },
   "Nigeria": {
-    "fetched_at": "2026-03-21T05:27:28.271421",
+    "fetched_at": "2026-03-22T05:37:36.163412",
     "data": [
-      {
-        "date": "2025-09-23 00:00:00+00:00",
-        "volume": 0.0806,
-        "tone": -1.7759,
-        "country": "Nigeria"
-      },
       {
         "date": "2025-09-24 00:00:00+00:00",
         "volume": 0.0738,
@@ -8677,21 +8671,21 @@
       },
       {
         "date": "2026-03-21 00:00:00+00:00",
-        "volume": 0.1576,
-        "tone": -3.0209,
+        "volume": 0.1257,
+        "tone": -3.3712,
+        "country": "Nigeria"
+      },
+      {
+        "date": "2026-03-22 00:00:00+00:00",
+        "volume": 0.1451,
+        "tone": -4.2178,
         "country": "Nigeria"
       }
     ]
   },
   "Congo, DRC": {
-    "fetched_at": "2026-03-21T05:27:38.516348",
+    "fetched_at": "2026-03-22T05:38:46.077805",
     "data": [
-      {
-        "date": "2025-09-23 00:00:00+00:00",
-        "volume": 0.1559,
-        "tone": -2.2449,
-        "country": "Congo, DRC"
-      },
       {
         "date": "2025-09-24 00:00:00+00:00",
         "volume": 0.1085,
@@ -9762,21 +9756,21 @@
       },
       {
         "date": "2026-03-21 00:00:00+00:00",
-        "volume": 0.0473,
-        "tone": -0.5131,
+        "volume": 0.0452,
+        "tone": -2.2056,
+        "country": "Congo, DRC"
+      },
+      {
+        "date": "2026-03-22 00:00:00+00:00",
+        "volume": 0.024,
+        "tone": -1.1364,
         "country": "Congo, DRC"
       }
     ]
   },
   "Mozambique": {
-    "fetched_at": "2026-03-21T05:27:57.506038",
+    "fetched_at": "2026-03-22T05:39:25.053975",
     "data": [
-      {
-        "date": "2025-09-23 00:00:00+00:00",
-        "volume": 0.012,
-        "tone": -0.7572,
-        "country": "Mozambique"
-      },
       {
         "date": "2025-09-24 00:00:00+00:00",
         "volume": 0.0131,
@@ -10847,457 +10841,457 @@
       },
       {
         "date": "2026-03-21 00:00:00+00:00",
-        "volume": 0.0158,
-        "tone": -2.8074,
+        "volume": 0.0196,
+        "tone": -2.9645,
+        "country": "Mozambique"
+      },
+      {
+        "date": "2026-03-22 00:00:00+00:00",
+        "volume": 0.0,
+        "tone": 0.0,
         "country": "Mozambique"
       }
     ]
   },
   "South Sudan": {
-    "fetched_at": "2026-03-21T05:28:10.320098",
+    "fetched_at": "2026-03-22T05:40:31.716608",
     "data": [
-      {
-        "date": "2025-09-23 00:00:00+00:00",
-        "volume": 0.0221,
-        "tone": -2.117,
-        "country": "South Sudan"
-      },
       {
         "date": "2025-09-24 00:00:00+00:00",
         "volume": 0.0166,
-        "tone": -3.2091,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-09-25 00:00:00+00:00",
         "volume": 0.0086,
-        "tone": -2.8414,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-09-26 00:00:00+00:00",
         "volume": 0.0137,
-        "tone": -5.1348,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-09-27 00:00:00+00:00",
         "volume": 0.0134,
-        "tone": -5.1084,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-09-28 00:00:00+00:00",
         "volume": 0.0114,
-        "tone": -3.0258,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-09-29 00:00:00+00:00",
         "volume": 0.0175,
-        "tone": -4.827,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-09-30 00:00:00+00:00",
         "volume": 0.026,
-        "tone": -3.7674,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-01 00:00:00+00:00",
         "volume": 0.0171,
-        "tone": -3.4554,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-02 00:00:00+00:00",
         "volume": 0.0471,
-        "tone": -2.6535,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-03 00:00:00+00:00",
         "volume": 0.0284,
-        "tone": -4.1804,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-04 00:00:00+00:00",
         "volume": 0.0344,
-        "tone": -5.714,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-05 00:00:00+00:00",
         "volume": 0.0487,
-        "tone": -1.1971,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-06 00:00:00+00:00",
         "volume": 0.0148,
-        "tone": -4.929,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-07 00:00:00+00:00",
         "volume": 0.038,
-        "tone": -2.6888,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-08 00:00:00+00:00",
         "volume": 0.0244,
-        "tone": -3.012,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-09 00:00:00+00:00",
         "volume": 0.0366,
-        "tone": -1.9078,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-10 00:00:00+00:00",
         "volume": 0.0196,
-        "tone": -2.814,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-11 00:00:00+00:00",
         "volume": 0.0082,
-        "tone": -1.2545,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-12 00:00:00+00:00",
         "volume": 0.0288,
-        "tone": -2.6156,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-13 00:00:00+00:00",
         "volume": 0.0201,
-        "tone": -2.7442,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-14 00:00:00+00:00",
         "volume": 0.0137,
-        "tone": -2.6665,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-15 00:00:00+00:00",
         "volume": 0.0228,
-        "tone": -4.5517,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-16 00:00:00+00:00",
         "volume": 0.0514,
-        "tone": -4.3122,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-17 00:00:00+00:00",
         "volume": 0.0231,
-        "tone": -3.9063,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-18 00:00:00+00:00",
         "volume": 0.0252,
-        "tone": -4.1411,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-19 00:00:00+00:00",
         "volume": 0.0183,
-        "tone": -1.3207,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-20 00:00:00+00:00",
         "volume": 0.0112,
-        "tone": -2.1795,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-21 00:00:00+00:00",
         "volume": 0.0306,
-        "tone": -1.7759,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-22 00:00:00+00:00",
         "volume": 0.0227,
-        "tone": -2.9888,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-23 00:00:00+00:00",
         "volume": 0.0239,
-        "tone": -4.3268,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-24 00:00:00+00:00",
         "volume": 0.021,
-        "tone": -1.8848,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-25 00:00:00+00:00",
         "volume": 0.0232,
-        "tone": -3.034,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-26 00:00:00+00:00",
         "volume": 0.0172,
-        "tone": -1.6043,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-27 00:00:00+00:00",
         "volume": 0.0315,
-        "tone": -4.6943,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-28 00:00:00+00:00",
         "volume": 0.0542,
-        "tone": -3.8854,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-29 00:00:00+00:00",
         "volume": 0.0242,
-        "tone": -5.1359,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-30 00:00:00+00:00",
         "volume": 0.0294,
-        "tone": -4.8401,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-10-31 00:00:00+00:00",
         "volume": 0.0287,
-        "tone": -4.8253,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-01 00:00:00+00:00",
         "volume": 0.0269,
-        "tone": -4.5989,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-02 00:00:00+00:00",
         "volume": 0.0532,
-        "tone": -3.244,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-03 00:00:00+00:00",
         "volume": 0.0611,
-        "tone": -6.323,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-04 00:00:00+00:00",
         "volume": 0.035,
-        "tone": -4.5465,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-05 00:00:00+00:00",
         "volume": 0.0417,
-        "tone": -4.3163,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-06 00:00:00+00:00",
         "volume": 0.0586,
-        "tone": -5.5413,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-07 00:00:00+00:00",
         "volume": 0.0226,
-        "tone": -4.1498,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-08 00:00:00+00:00",
         "volume": 0.0238,
-        "tone": -4.2276,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-09 00:00:00+00:00",
         "volume": 0.0203,
-        "tone": -3.1533,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-10 00:00:00+00:00",
         "volume": 0.0232,
-        "tone": -4.4149,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-11 00:00:00+00:00",
         "volume": 0.027,
-        "tone": -3.9753,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-12 00:00:00+00:00",
         "volume": 0.0321,
-        "tone": -5.5251,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-13 00:00:00+00:00",
         "volume": 0.0345,
-        "tone": -5.7973,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-14 00:00:00+00:00",
         "volume": 0.0213,
-        "tone": -4.4545,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-15 00:00:00+00:00",
         "volume": 0.0215,
-        "tone": -3.6799,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-16 00:00:00+00:00",
         "volume": 0.0176,
-        "tone": -4.1468,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-17 00:00:00+00:00",
         "volume": 0.0214,
-        "tone": -3.5145,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-18 00:00:00+00:00",
         "volume": 0.0415,
-        "tone": -2.4733,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-19 00:00:00+00:00",
         "volume": 0.0303,
-        "tone": -4.7603,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-20 00:00:00+00:00",
         "volume": 0.0167,
-        "tone": -2.0765,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-21 00:00:00+00:00",
         "volume": 0.0134,
-        "tone": -3.0146,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-22 00:00:00+00:00",
         "volume": 0.024,
-        "tone": -2.4616,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-23 00:00:00+00:00",
         "volume": 0.0171,
-        "tone": -2.6762,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-24 00:00:00+00:00",
         "volume": 0.0127,
-        "tone": -2.296,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-25 00:00:00+00:00",
         "volume": 0.0246,
-        "tone": -2.7748,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-26 00:00:00+00:00",
         "volume": 0.0256,
-        "tone": -3.4711,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-27 00:00:00+00:00",
         "volume": 0.0142,
-        "tone": -1.9189,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-28 00:00:00+00:00",
         "volume": 0.0215,
-        "tone": -3.3257,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-29 00:00:00+00:00",
         "volume": 0.1076,
-        "tone": -4.7869,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-11-30 00:00:00+00:00",
         "volume": 0.0414,
-        "tone": -0.4583,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-01 00:00:00+00:00",
         "volume": 0.0134,
-        "tone": -3.5475,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-02 00:00:00+00:00",
         "volume": 0.0078,
-        "tone": -3.6788,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-03 00:00:00+00:00",
         "volume": 0.0229,
-        "tone": -2.8697,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-04 00:00:00+00:00",
         "volume": 0.0354,
-        "tone": -2.2008,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-05 00:00:00+00:00",
         "volume": 0.0232,
-        "tone": -3.0186,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
@@ -11309,644 +11303,644 @@
       {
         "date": "2025-12-07 00:00:00+00:00",
         "volume": 0.0404,
-        "tone": -5.1113,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-08 00:00:00+00:00",
         "volume": 0.0469,
-        "tone": -4.1407,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-09 00:00:00+00:00",
         "volume": 0.0276,
-        "tone": -2.5835,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-10 00:00:00+00:00",
         "volume": 0.0224,
-        "tone": -4.0232,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-11 00:00:00+00:00",
         "volume": 0.025,
-        "tone": -3.2519,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-12 00:00:00+00:00",
         "volume": 0.0273,
-        "tone": -2.785,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-13 00:00:00+00:00",
         "volume": 0.0711,
-        "tone": -5.181,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-14 00:00:00+00:00",
         "volume": 0.092,
-        "tone": -5.6891,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-15 00:00:00+00:00",
         "volume": 0.0285,
-        "tone": -4.3112,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-16 00:00:00+00:00",
         "volume": 0.0515,
-        "tone": -7.3418,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-17 00:00:00+00:00",
         "volume": 0.1107,
-        "tone": -5.6564,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-18 00:00:00+00:00",
         "volume": 0.0539,
-        "tone": -5.2354,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-19 00:00:00+00:00",
         "volume": 0.0455,
-        "tone": -3.5948,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-20 00:00:00+00:00",
         "volume": 0.0676,
-        "tone": -3.7426,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-21 00:00:00+00:00",
         "volume": 0.0363,
-        "tone": -3.3403,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-22 00:00:00+00:00",
         "volume": 0.0274,
-        "tone": -4.0808,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-23 00:00:00+00:00",
         "volume": 0.026,
-        "tone": -4.2155,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-24 00:00:00+00:00",
         "volume": 0.0266,
-        "tone": -3.5004,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-25 00:00:00+00:00",
         "volume": 0.0698,
-        "tone": -1.3686,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-26 00:00:00+00:00",
         "volume": 0.025,
-        "tone": -2.8544,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-27 00:00:00+00:00",
         "volume": 0.0749,
-        "tone": -2.1899,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-28 00:00:00+00:00",
         "volume": 0.0579,
-        "tone": -3.0871,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-29 00:00:00+00:00",
         "volume": 0.0521,
-        "tone": -1.7103,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-30 00:00:00+00:00",
         "volume": 0.0362,
-        "tone": -2.3528,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2025-12-31 00:00:00+00:00",
         "volume": 0.0618,
-        "tone": -3.096,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-01 00:00:00+00:00",
         "volume": 0.0362,
-        "tone": -2.1414,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-02 00:00:00+00:00",
         "volume": 0.0194,
-        "tone": -3.1371,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-03 00:00:00+00:00",
         "volume": 0.0223,
-        "tone": -4.5036,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-04 00:00:00+00:00",
         "volume": 0.0174,
-        "tone": -4.0621,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-05 00:00:00+00:00",
         "volume": 0.0144,
-        "tone": -3.3871,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-06 00:00:00+00:00",
         "volume": 0.0116,
-        "tone": -4.9229,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-07 00:00:00+00:00",
         "volume": 0.0135,
-        "tone": -3.8044,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-08 00:00:00+00:00",
         "volume": 0.0203,
-        "tone": -2.4017,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-09 00:00:00+00:00",
         "volume": 0.0229,
-        "tone": -4.4685,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-10 00:00:00+00:00",
         "volume": 0.0167,
-        "tone": -3.0907,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-11 00:00:00+00:00",
         "volume": 0.0187,
-        "tone": -2.6749,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-12 00:00:00+00:00",
         "volume": 0.0296,
-        "tone": -2.364,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-13 00:00:00+00:00",
         "volume": 0.0251,
-        "tone": -4.2104,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-14 00:00:00+00:00",
         "volume": 0.0395,
-        "tone": -1.7729,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-15 00:00:00+00:00",
         "volume": 0.0798,
-        "tone": -1.1287,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-16 00:00:00+00:00",
         "volume": 0.011,
-        "tone": -2.6526,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-17 00:00:00+00:00",
         "volume": 0.0163,
-        "tone": -1.9381,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-18 00:00:00+00:00",
         "volume": 0.0204,
-        "tone": -2.8483,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-19 00:00:00+00:00",
         "volume": 0.0138,
-        "tone": -4.6833,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-20 00:00:00+00:00",
         "volume": 0.0183,
-        "tone": -3.6456,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-21 00:00:00+00:00",
         "volume": 0.0146,
-        "tone": -1.6558,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-22 00:00:00+00:00",
         "volume": 0.0146,
-        "tone": -2.8992,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-23 00:00:00+00:00",
         "volume": 0.0205,
-        "tone": -2.2246,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-24 00:00:00+00:00",
         "volume": 0.0251,
-        "tone": -4.3991,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-25 00:00:00+00:00",
         "volume": 0.0216,
-        "tone": -5.6268,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-26 00:00:00+00:00",
         "volume": 0.023,
-        "tone": -5.6669,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-27 00:00:00+00:00",
         "volume": 0.0291,
-        "tone": -5.5979,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-28 00:00:00+00:00",
         "volume": 0.0129,
-        "tone": -4.6734,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-29 00:00:00+00:00",
         "volume": 0.0161,
-        "tone": -3.4557,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-30 00:00:00+00:00",
         "volume": 0.0235,
-        "tone": -3.9112,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-01-31 00:00:00+00:00",
         "volume": 0.0135,
-        "tone": -3.8984,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-01 00:00:00+00:00",
         "volume": 0.0204,
-        "tone": -2.4931,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-02 00:00:00+00:00",
         "volume": 0.0174,
-        "tone": -4.4162,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-03 00:00:00+00:00",
         "volume": 0.0273,
-        "tone": -4.9996,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-04 00:00:00+00:00",
         "volume": 0.0286,
-        "tone": -4.5305,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-05 00:00:00+00:00",
         "volume": 0.0156,
-        "tone": -5.3313,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-06 00:00:00+00:00",
         "volume": 0.0276,
-        "tone": -3.4553,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-07 00:00:00+00:00",
         "volume": 0.0167,
-        "tone": -3.6413,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-08 00:00:00+00:00",
         "volume": 0.0204,
-        "tone": -3.5053,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-09 00:00:00+00:00",
         "volume": 0.0257,
-        "tone": -5.2544,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-10 00:00:00+00:00",
         "volume": 0.0409,
-        "tone": -3.9222,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-11 00:00:00+00:00",
         "volume": 0.0339,
-        "tone": -3.4523,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-12 00:00:00+00:00",
         "volume": 0.0142,
-        "tone": -4.8424,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-13 00:00:00+00:00",
         "volume": 0.0187,
-        "tone": -3.6134,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-14 00:00:00+00:00",
         "volume": 0.0252,
-        "tone": -2.0517,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-15 00:00:00+00:00",
         "volume": 0.0175,
-        "tone": -0.8633,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-16 00:00:00+00:00",
         "volume": 0.0218,
-        "tone": -1.0205,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-17 00:00:00+00:00",
         "volume": 0.0114,
-        "tone": -3.6565,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-18 00:00:00+00:00",
         "volume": 0.0227,
-        "tone": -5.4317,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-19 00:00:00+00:00",
         "volume": 0.0262,
-        "tone": -5.2918,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-20 00:00:00+00:00",
         "volume": 0.0145,
-        "tone": -4.919,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-21 00:00:00+00:00",
         "volume": 0.0384,
-        "tone": -3.3633,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-22 00:00:00+00:00",
         "volume": 0.0331,
-        "tone": -3.8914,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-23 00:00:00+00:00",
         "volume": 0.0188,
-        "tone": -3.3509,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-24 00:00:00+00:00",
         "volume": 0.0145,
-        "tone": -3.0403,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-25 00:00:00+00:00",
         "volume": 0.0297,
-        "tone": -3.2094,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-26 00:00:00+00:00",
         "volume": 0.0515,
-        "tone": -3.4561,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-27 00:00:00+00:00",
         "volume": 0.025,
-        "tone": -5.8935,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-02-28 00:00:00+00:00",
         "volume": 0.0513,
-        "tone": 1.6327,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-01 00:00:00+00:00",
         "volume": 0.0072,
-        "tone": -5.0124,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-02 00:00:00+00:00",
         "volume": 0.0412,
-        "tone": -6.356,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-03 00:00:00+00:00",
         "volume": 0.0318,
-        "tone": -5.7586,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-04 00:00:00+00:00",
         "volume": 0.0146,
-        "tone": -3.7487,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-05 00:00:00+00:00",
         "volume": 0.0147,
-        "tone": -4.3066,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-06 00:00:00+00:00",
         "volume": 0.0124,
-        "tone": -3.3988,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-07 00:00:00+00:00",
         "volume": 0.0252,
-        "tone": -2.7187,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-08 00:00:00+00:00",
         "volume": 0.0232,
-        "tone": -4.1672,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-09 00:00:00+00:00",
         "volume": 0.0263,
-        "tone": -2.583,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-10 00:00:00+00:00",
         "volume": 0.0278,
-        "tone": -5.1373,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-11 00:00:00+00:00",
         "volume": 0.0258,
-        "tone": -3.949,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-12 00:00:00+00:00",
         "volume": 0.0203,
-        "tone": -4.3879,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-13 00:00:00+00:00",
         "volume": 0.0248,
-        "tone": -2.9217,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-14 00:00:00+00:00",
         "volume": 0.0306,
-        "tone": -2.8719,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-15 00:00:00+00:00",
         "volume": 0.0172,
-        "tone": -1.7556,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-16 00:00:00+00:00",
         "volume": 0.0364,
-        "tone": -2.0015,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-17 00:00:00+00:00",
         "volume": 0.0658,
-        "tone": -2.4169,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-18 00:00:00+00:00",
         "volume": 0.02,
-        "tone": -2.7562,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-19 00:00:00+00:00",
         "volume": 0.0402,
-        "tone": -0.9422,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-20 00:00:00+00:00",
         "volume": 0.0246,
-        "tone": -0.1525,
+        "tone": 0.0,
         "country": "South Sudan"
       },
       {
         "date": "2026-03-21 00:00:00+00:00",
-        "volume": 0.0,
+        "volume": 0.0187,
+        "tone": 0.0,
+        "country": "South Sudan"
+      },
+      {
+        "date": "2026-03-22 00:00:00+00:00",
+        "volume": 0.008,
         "tone": 0.0,
         "country": "South Sudan"
       }
     ]
   },
   "Afghanistan": {
-    "fetched_at": "2026-03-21T05:28:20.818487",
+    "fetched_at": "2026-03-22T05:40:52.848892",
     "data": [
-      {
-        "date": "2025-09-23 00:00:00+00:00",
-        "volume": 0.1736,
-        "tone": -4.0405,
-        "country": "Afghanistan"
-      },
       {
         "date": "2025-09-24 00:00:00+00:00",
         "volume": 0.1019,
@@ -13017,21 +13011,21 @@
       },
       {
         "date": "2026-03-21 00:00:00+00:00",
-        "volume": 0.2522,
-        "tone": -3.3238,
+        "volume": 0.4104,
+        "tone": -3.3446,
+        "country": "Afghanistan"
+      },
+      {
+        "date": "2026-03-22 00:00:00+00:00",
+        "volume": 0.3679,
+        "tone": -4.2746,
         "country": "Afghanistan"
       }
     ]
   },
   "Burkina Faso": {
-    "fetched_at": "2026-03-21T05:28:48.339311",
+    "fetched_at": "2026-03-22T05:41:31.279740",
     "data": [
-      {
-        "date": "2025-09-23 00:00:00+00:00",
-        "volume": 0.0456,
-        "tone": -6.5398,
-        "country": "Burkina Faso"
-      },
       {
         "date": "2025-09-24 00:00:00+00:00",
         "volume": 0.0231,
@@ -14102,8 +14096,14 @@
       },
       {
         "date": "2026-03-21 00:00:00+00:00",
-        "volume": 0.0,
-        "tone": 0.0,
+        "volume": 0.0137,
+        "tone": -2.7279,
+        "country": "Burkina Faso"
+      },
+      {
+        "date": "2026-03-22 00:00:00+00:00",
+        "volume": 0.016,
+        "tone": -6.1094,
         "country": "Burkina Faso"
       }
     ]
